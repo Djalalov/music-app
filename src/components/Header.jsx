@@ -3,7 +3,7 @@ import CenterMenu from "./CenterMenu";
 
 const Header = () => {
 	return (
-		<div className="header bg-[#081730] flex items-center justify-between px-20 pt-12 text-base ">
+		<div className="header bg-[#071630] flex items-center justify-between px-20 pt-12 text-base ">
 			{/* Logo */}
 			<img
 				src={require("../assets/MusicLogo.png")}
