@@ -113,7 +113,7 @@ const Search = () => {
 						<b>Name or Direct URL</b>
 					</span>
 					<span className="text-sm mt-3 text-[#4D586A]">
-						Duis feugiat congue metus, ultrices vulputate <br /> nibh viverra
+						Duis feugiat congue metus, ultrices vulputate <br /> sorre audu
 						eget. Vestibulum ullamcorper <br /> volutpat varius.
 					</span>
 				</div>
